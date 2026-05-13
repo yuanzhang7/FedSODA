@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output folders
+Fedsoda_Project/
+Weights/
+Log/
+Results/
+Array/
+
+# Data and Txt (as they contain paths/data specific to users)
+Data/
+Txt/
+
+# OS files
+.DS_Store
+Thumbs.db
